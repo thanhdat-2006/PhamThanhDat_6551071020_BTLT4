@@ -1,0 +1,16 @@
+D:\C#\Bai15_2\bin\Debug\net10.0-windows\Bai15_2.exe
+D:\C#\Bai15_2\bin\Debug\net10.0-windows\Bai15_2.deps.json
+D:\C#\Bai15_2\bin\Debug\net10.0-windows\Bai15_2.runtimeconfig.json
+D:\C#\Bai15_2\bin\Debug\net10.0-windows\Bai15_2.dll
+D:\C#\Bai15_2\bin\Debug\net10.0-windows\Bai15_2.pdb
+D:\C#\Bai15_2\obj\Debug\net10.0-windows\Bai15_2.Form1.resources
+D:\C#\Bai15_2\obj\Debug\net10.0-windows\Bai15_2.csproj.GenerateResource.cache
+D:\C#\Bai15_2\obj\Debug\net10.0-windows\Bai15_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bai15_2\obj\Debug\net10.0-windows\Bai15_2.AssemblyInfoInputs.cache
+D:\C#\Bai15_2\obj\Debug\net10.0-windows\Bai15_2.AssemblyInfo.cs
+D:\C#\Bai15_2\obj\Debug\net10.0-windows\Bai15_2.csproj.CoreCompileInputs.cache
+D:\C#\Bai15_2\obj\Debug\net10.0-windows\Bai15_2.dll
+D:\C#\Bai15_2\obj\Debug\net10.0-windows\refint\Bai15_2.dll
+D:\C#\Bai15_2\obj\Debug\net10.0-windows\Bai15_2.pdb
+D:\C#\Bai15_2\obj\Debug\net10.0-windows\Bai15_2.genruntimeconfig.cache
+D:\C#\Bai15_2\obj\Debug\net10.0-windows\ref\Bai15_2.dll
