@@ -1,0 +1,16 @@
+D:\C#\Bai15_3\bin\Debug\net10.0-windows\Bai15_3.exe
+D:\C#\Bai15_3\bin\Debug\net10.0-windows\Bai15_3.deps.json
+D:\C#\Bai15_3\bin\Debug\net10.0-windows\Bai15_3.runtimeconfig.json
+D:\C#\Bai15_3\bin\Debug\net10.0-windows\Bai15_3.dll
+D:\C#\Bai15_3\bin\Debug\net10.0-windows\Bai15_3.pdb
+D:\C#\Bai15_3\obj\Debug\net10.0-windows\Bai15_3.Form1.resources
+D:\C#\Bai15_3\obj\Debug\net10.0-windows\Bai15_3.csproj.GenerateResource.cache
+D:\C#\Bai15_3\obj\Debug\net10.0-windows\Bai15_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bai15_3\obj\Debug\net10.0-windows\Bai15_3.AssemblyInfoInputs.cache
+D:\C#\Bai15_3\obj\Debug\net10.0-windows\Bai15_3.AssemblyInfo.cs
+D:\C#\Bai15_3\obj\Debug\net10.0-windows\Bai15_3.csproj.CoreCompileInputs.cache
+D:\C#\Bai15_3\obj\Debug\net10.0-windows\Bai15_3.dll
+D:\C#\Bai15_3\obj\Debug\net10.0-windows\refint\Bai15_3.dll
+D:\C#\Bai15_3\obj\Debug\net10.0-windows\Bai15_3.pdb
+D:\C#\Bai15_3\obj\Debug\net10.0-windows\Bai15_3.genruntimeconfig.cache
+D:\C#\Bai15_3\obj\Debug\net10.0-windows\ref\Bai15_3.dll
